@@ -17,4 +17,4 @@ Note :- I have uploaded full Excel Worksheet which contains Pivot Table and Dash
 7.  % of Sales by Pizza Size
 8.  Total Pizza Sold by Pizza Category
 9.  Top 5 best Sellers by Total Pizza Sold
-10.  Top 5 best Sellers by Total Pizza Sold
+10.  Top 5 worst Sellers by Total Pizza Sold
