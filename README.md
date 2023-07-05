@@ -1,6 +1,6 @@
 # Pizza-Sales-Analysis-in-Excel
 Pizza Sales Analysis in Excel and created interactive Dashboard
-Note :- I have uploaded full Excel Worksheet which contains Pivot Table and Dashboard. The project file takes some minutes to load, the size of the file is large to view, hence it has to be downloaded and then viewed. Thank you.
+p.s. I have uploaded full Excel Worksheet which contains Pivot Table and Dashboard. The project file takes some minutes to load, the size of the file is large to view, hence it has to be downloaded and then viewed. Thank you.
 # Task Performed:-
 1. Data Cleaning
 2. Data Preprocessing
